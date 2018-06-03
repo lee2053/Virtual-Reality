@@ -1,4 +1,4 @@
-﻿// TravelPointToFly.cs
+﻿// TravelPointToMove.cs
 // When the Vive hand-held controller's menu button is pressed, move the "movee" in the direction of the wand
 // Usually the "movee" will be the Player (e.g. [CameraRig])
 // Attach this script to a Vive Controller
