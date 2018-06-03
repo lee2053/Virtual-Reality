@@ -6,7 +6,7 @@
 using UnityEngine;
 using System.Collections;
 
-public class TravelPointToFly : MonoBehaviour {
+public class TravelPointToMove : MonoBehaviour {
 
 	public GameObject movee;						// Object which is moved (should be [CameraRig])
 	public bool travelling = false;					// flag whether we are currently travelling
